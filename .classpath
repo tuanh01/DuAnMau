@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="poly/edu/vn/display/" kind="src" path="Polypro/src"/>
+	<classpathentry kind="src" path="Polypro/src/poly/edu/vn/display"/>
+	<classpathentry kind="output" path="Polypro/build/classes"/>
+</classpath>
